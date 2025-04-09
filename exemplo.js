@@ -7,4 +7,4 @@ const pessoa = {
     }
 }
 
-console.log(pessoa.nome.rua)
+console.log(pessoa.nome)
